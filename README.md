@@ -1,1 +1,1 @@
-Personal website repository for projects made by Tanush Goel`
+Personal website repository for projects made by Tanush Goel
