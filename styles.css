@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+body {
+	background-color: #6de6db;
+	height: 100%;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	color: white;
+}
+
+.info a {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.info img{
+	height: 60px;
+	width: 60px;
+	margin: 5px;
+	filter: brightness(0);
+}
